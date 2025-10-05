@@ -6,9 +6,27 @@
       "mbti": "INTJ",
       "descricao": "frio, calculista e extremamente inteligente. Ele observa tudo ao seu redor e manipula situações com precisão, evitando chamar atenção para si mesmo.",
       "imagem": "https://i.pinimg.com/736x/2a/e6/4b/2ae64be9c72d6a515366f6448bd94500.jpg"
-    } 
-    
-
+    },
+    {
+      "id": 2,
+      "name": "Sakurako Tsubaki",
+      "mbti": "INTJ",
+      "descricao": " Sakurako é quieta, fala o mínimo necessário e possui grande perspicácia e intuição.",
+      "imagem": "https://photos.yodayo.com/7e4241f7-5eee-4bb0-8b8c-e85052144899_width=1066&height=1600.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Katsunori Shiba",
+      "mbti": "INTJ",
+      "descricao": "Professor da Classe 1-D no arco do 2º ano. Conhece a história de Kiyotaka Ayanokōji e trabalha junto com Tsukishiro para expulsá-lo. É rígido e não hesita em usar ameaças ou violência para atingir seus objetivos.",
+      "imagem": "https://www.postavy.cz/foto/katsunori-shiba-foto.jpg"
+    }, {
+      "id": 4,
+      "name": "Hayato Kitō",
+      "mbti": "INTJ",
+      "descricao": " Extremamente ansioso, mas calmo e protetor. Age como um cuidador para os colegas, demonstrando grande força e durabilidade. Capanga de Arisu Sakayanagi, suas habilidades completas ainda são misteriosas. Seu objetivo declarado é proteger a turma com sua vida.",
+      "imagem": "https://isla.namikoi.com/characters/00fe9636-2817-46b7-af76-e6028664f5a4/e89cf829-3fd5-4bfb-a2ab-5dc0fcc9cf9f.jpg"
+    }
   ],
   "INTP": [
     {
@@ -17,12 +35,36 @@
       "mbti": "INTP",
       "descricao": "Ai Morishita é uma aluna excêntrica, observadora e intelectualmente perspicaz. Embora pareça desligada e imprevisível, ela possui forte percepção social, habilidades analíticas e um senso de individualidade que a tornam uma figura distinta e estratégica entre seus colegas.",
       "imagem": "https://i.pinimg.com/736x/83/a0/f4/83a0f4631933193ff6893840ac443269.jpg"
-    }, {
+    },
+    {
       "id": 2,
       "name": "Hideo Sotomura",
       "mbti": "INTP",
       "descricao": "Otaku, inteligente, rápido com computadores e tecnologia. Habilidade em planejamento e liderança, demonstrando calma em situações de crise. Tem forte capacidade de julgamento e estratégia, sendo capaz de conduzir operações discretas com eficiência.",
-      "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/7/7f/Hideo_Sotomura_LN_visual.jpg/revision/latest?cb=20171027195026"
+      "imagem": "https://thicc-uwu.mywaifulist.moe/waifus/hideo-sotomura-classroom-of-the-elite/HzCdHwxjXbgYnbUN4hxPNyIWDBkqwdCPyNMqvH65.png?class=thumbnail"
+    },
+    {
+      "id": 3,
+      "name": "Yuki Himeno",
+      "mbti": "INTP",
+      "descricao": "Estudante da Classe 2-C, com olhos violeta e cabelos presos em maria-chiquinhas. Geralmente vista usando o uniforme escolar feminino. Compartilha o mesmo aniversário com Sae Chabashira.",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR35ntVKNzX5ufauEbJZSH0YJ3XU7UY0genMlY0nKBLtA&s=10"
+    },
+
+    {
+      "id": 4,
+      "name": "Miki Yamamura",
+      "mbti": "INTP",
+      "descricao": " Atua como espiã e recolhedora de informações para Arisu Sakayanagi, usando sua presença discreta. Possui cabelos azul-petróleo presos em rabo de cavalo alto e olhos azul-esverdeados suaves.",
+      "imagem": "https://cdn.myanimelist.net/images/characters/5/539122.webp"
+    },
+
+    {
+      "id": 5,
+      "name": "Kyō Ishigami",
+      "mbti": "INTP",
+      "descricao": "Considerado um gênio acadêmico, com raciocínio excepcional, mas com habilidades físicas baixas. Misterioso e estratégico, evita chamar atenção, mas ajuda Kiyotaka Ayanokōji com conselhos indiretos. É muito respeitado por sua inteligência e posição como líder da turma.",
+      "imagem": "https://cdn.hikka.io/content/characters/kyou-ishigami-ed9bde/202-cBbzVRaCBDeI9z6OLg.jpg"
     }
   ],
   "ENTP": [
@@ -31,77 +73,187 @@
       "name": "Arisu Sakayanagi",
       "mbti": "ENTP",
       "descricao": "Estratégica, calculista, visionária e focada em objetivos. Prefere observar e planejar antes de agir, utilizando lógica e análise para alcançar metas.",
-      "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/2/2d/Arisu_Sakayanagi_LN_visual.png/revision/latest?cb=20171023234543"
-    },{
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTsfkesXGOciemUFQBlhk-tAX03HBjs9BARlfS4C8Yuew&s=10"
+    },
+    {
       "id": 2,
       "name": "Ichika Amasawa",
       "mbti": "ENTP",
       "descricao": "Extremamente estratégica, perspicaz e manipuladora, Ichika consegue planejar e antecipar movimentos dos outros, protegendo aqueles que considera importantes e usando suas habilidades intelectuais e físicas de forma eficiente. Apesar de seu lado brincalhão, é séria quando necessário e capaz de impressionante controle sobre situações complexas.",
-      "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/d/de/Ichika_Amasawa_LN_visual.png/revision/latest?cb=20210329053918"
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJXjXPUNfdED24ks3UyLnHrCP2Fl7-1QcpmAWg_WlA5Q&s=10"
+    },
+
+    {
+      "id": 3,
+      "name": "Masumi Kamuro",
+      "mbti": "ENTP",
+      "descricao": " Leal e honesta, próxima de Arisu Sakayanagi, segue suas ordens e participa de investigações e estratégias. É conhecida por suas habilidades de observação e ocasionalmente envolvida em pequenas transgressões, como furtos, que são ignorados por sua lealdade à Sakayanagi.",
+      "imagem": "https://i.pinimg.com/736x/8b/e1/42/8be14222ce4fd194e32b25affc761360.jpg"
+    },{
+      "id": 4,
+      "name": "Miyabi Nagumo",
+      "mbti": "ENTP",
+      "descricao": "Nagumo é carismático, manipulador e estratégico, com grande habilidade em liderança e persuasão. Ele é alto, de pele clara, cabelos loiros claros e olhos azuis. Conhecido por seu controle sobre os alunos do 3º ano, ambiciona criar uma ordem meritocrática na escola e é perspicaz na exploração de fraquezas alheias.",
+      "imagem": "https://i.pinimg.com/564x/b3/34/e1/b334e11388fe61fb09d00ac4f7d94d09.jpg"
     }
   ],
   "INFJ": [
-   {
+    {
       "id": 1,
       "name": "Hiyori Shiina",
       "mbti": "INFJ",
       "descricao": "Hiyori é uma garota quieta e reservada, apaixonada por livros, que se torna animada e falante quando encontra alguém com interesses semelhantes. Ela é racional, cooperativa, encorajadora e valoriza a amizade e a harmonia entre os colegas, mesmo em situações de conflito.",
-      "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/8/86/Hiyori_Shiina_LN_1st_Year_arc_visual.png/revision/latest?cb=20210316124400"
-    },{
+      "imagem": "https://i.pinimg.com/736x/26/19/49/261949af6a1af7888259be4e3043623e.jpg"
+    },
+    {
       "id": 2,
       "name": "Chiaki Matsushita",
       "mbti": "INFJ",
       "descricao": "Calma e gentil, típica de irmã mais velha. Excelente em cálculos mentais e observação, mas inicialmente subestimava suas próprias habilidades. Dedicada aos amigos e atenta às necessidades dos outros.",
-      "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/2/2a/Chiaki_Matsushita_LN_1st_Year_Arc_visual.png/revision/latest?cb=20211011010744"
-    }, {
+      "imagem": "https://i.pinimg.com/736x/66/24/9d/66249dc48f0490419e8f48497dbf8514.jpg"
+    },
+    {
       "id": 3,
       "name": "Um Maezono",
       "mbti": "INFJ",
       "descricao": "Atleta e energética, provavelmente rápida e atlética, com espírito competitivo. Participa de atividades esportivas e é envolvida com colegas da Classe D. Personalidade pode ser um pouco difícil, mas demonstra dedicação em eventos da escola.",
-      "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/0/07/LN_2nd_Vol_12-09.jpg/revision/latest?cb=20240801155841"
-    }, {
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSSmL1Campf48yzKxnRlgT0wq9_3McugrhbJ1SHg_n0FA&s=10"
+    },
+    {
       "id": 4,
       "name": "Narimori Sakayanagi",
       "mbti": "INFJ",
       "descricao": "Atual presidente da Advanced Nurturing High School e pai de Arisu Sakayanagi. Homem de cerca de 40 anos, estratégico e influente, com grande respeito pelo Professor Ayanokōji. Assume decisões importantes na escola e possui habilidades administrativas excepcionais.",
-      "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/8/82/Chairman_Sakayanagi_Anime.png/revision/latest?cb=20230707153629"
-    },{
+      "imagem": "https://anibase.net/files/fec42345324f631617f16ebcdb3bb028"
+    },
+    {
       "id": 5,
       "name": "Hiroya Tokitō",
       "mbti": "INFJ",
       "descricao": "Líder da facção que se opõe a Ryūen, demonstrando forte senso de justiça e estratégia para organizar a rebelião contra ele. Participou do Cruise Ship Special Test como membro do Cow Group e atua como planejador e líder dentro de sua turma.",
-      "imagem": "https://vignette.wikia.nocookie.net/you-zitsu/images/1/19/Hiroya_Tokito.png"
-    }
+      "imagem": "https://static1.personalitydatabase.net/2/pdb-images-prod/5c0fc331/profile_images/759f1205d8c249899bd57873a7c318a6.png"
+    },
+    {
+      "id": 6,
+      "name": "Yahiko Totsuka",
+      "mbti": "INFJ",
+      "descricao": "Aluno da Classe 1-A e membro da Facção Katsuragi. Inicialmente se mostra arrogante com as classes mais baixas, mas demonstra ser dócil e leal quando confrontado. Participa ativamente das atividades do grupo durante os exames e testes da escola.",
+      "imagem": "https://gdm-universal-media.b-cdn.net/epicstream/7b797d51a380f2071930116bee7cc2a8f6eb3d82-1280x720.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Shigeru Takemoto",
+      "mbti": "INFJ",
+      "descricao": "Aluno da Classe 2-A. Possui cabelos e olhos azuis, visto usando o uniforme escolar. Informações detalhadas sobre sua personalidade e habilidades são limitadas.",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSM917nZwxnLoTbWE4B0wIGxZmaa3byseFYps7IjKCNQUHK3KHc57Vo-mlQ&s=10"
+    },
+    {
+      "id": 8,
+      "name": "Saki Yamashita",
+      "mbti": "INFJ",
+      "descricao": "Aluna da Classe 1-C. Saki é vista principalmente com seu uniforme escolar, mas não há muitos detalhes sobre sua personalidade ou habilidades.",
+      "imagem": "https://image.tensorartassets.com/cdn-cgi/image/w=2048/model_showcase/745493292201989524/1b8fb678-d925-e2cc-8980-1a2b76830a8c.jpeg"
+    },
+
+    {
+      "id": 11,
+      "name": "Reo Kondō",
+      "mbti": "INFJ",
+      "descricao": "Aluno da Classe 1-C e membro do Clube de Basquete. Reo tem cabelos e olhos castanhos e normalmente usa o uniforme escolar masculino. Ele aparece nos eventos do 1º e 2º ano, mas seu papel é mais secundário.",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDPtB0CIeFYJ9JdRWNsRQKe-xvRr2Krr59kXHYYk-StiBfnFZw_6HgYFw&s=10"
+    },
+
+    {
+      "id": 12,
+      "name": "Rika Morofuji",
+      "mbti": "INFJ",
+      "descricao": " Rika usa óculos, prende o cabelo em um coque estilo dango e parece dócil. Ela esteve envolvida em conflitos com Kei Karuizawa no refeitório e participou do Uninhabited Island Exam em grupo com colegas da mesma classe.",
+      "imagem": "https://i.pinimg.com/564x/b9/6f/63/b96f632e05e49f1c11ddc62ac2c98146.jpg"
+    },
+    {
+      "id": 13,
+      "name": "Nanami Yabu",
+      "mbti": "INFJ",
+      "descricao": " Nanami é estudiosa e participa das atividades da classe, mas não há muitos detalhes sobre sua personalidade ou habilidades especiais. Ela veste o uniforme escolar padrão e é conhecida por seu comportamento tranquilo.",
+      "imagem": "https://cdn.myanimelist.net/images/characters/8/486229.jpg"
+    },
     
+    {
+      "id": 14,
+      "name": "Minori Kinoshita",
+      "mbti": "INFJ",
+      "descricao": "Aluna da Advanced Nurturing High School, Classe 1-C. Corredora rápida e ágil, participou de diversas atividades físicas e exames. Envolvida em lesões durante provas e exames, mostrando determinação apesar das adversidades. Possui cabelos escuros e olhos cinzentos.",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-01UIms-qriQ2QAZswJOHHMAsI1nU4ARYQVIYPwd2xMefTNoTcTF4dlyx&s=10"
+    },
+    {
+      "id": 15,
+      "name": "Kōsei Sanada",
+      "mbti": "INFJ",
+      "descricao": " Destaca-se por sua estabilidade emocional, análise situacional e empatia, mantendo postura calma mesmo em conflitos. Participou de exames especiais e atua como representante de vanguarda da classe, sendo confiável e estratégico. Também é talentoso musicalmente, integrando a banda da escola e mantendo um relacionamento secreto com Miya.",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQMarQVqXCcyLJb8-KTwcoZ15N3LxIs4jBXOgRLiyYwn_w7qgMRxqW0vI&s=10"
+    },
+
+    {
+      "id": 16,
+      "name": "Kyōgo Komiya",
+      "mbti": "INFJ",
+      "descricao": "Trabalha arduamente para se tornar um jogador regular no clube. Frequentemente atua como aliado de Kakeru Ryūen e seguiu o Grupo Ayanokōji sob suas ordens. Possui interesse romântico por Satsuki Shinohara e participou do exame da ilha desabitada com ela.",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR62GebkZOVLgOc2DC-KxqEGdGK-gSg_Y3h7jIzgiZGbOZ0o512KMl8-70-&s=10"
+    },
+
+    {
+      "id": 17,
+      "name": "Kozue Minamikata",
+      "mbti": "INFJ",
+      "descricao": " Participou do arco de Avaliação OAA e faz parte das atividades da turma. Pouco se sabe sobre sua personalidade em detalhes.",
+      "imagem": "https://cdn.myanimelist.net/images/characters/2/539093.jpg"
+    }
   ],
   "INFP": [
-   {
+    {
       "id": 1,
       "name": "Haruka Hasebe",
       "mbti": "INFP",
       "descricao": " Adolescente atraente, com cabelos azuis na altura da cintura e olhos laranja, corpo bem dotado e altura média. Muito tímida e reservada, prefere não se expor, mas é muito atenciosa com amigos próximos. Acadêmica talentosa em Ciências e Matemática, porém fraca em História e Línguas. Tem nervosismo com estranhos como característica pessoal.",
-      "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/6/6c/Haruka_Hasebe_LN_visual.png/revision/latest?cb=20170901234542"
-    }, {
+      "imagem": "https://i.pinimg.com/736x/4e/a7/49/4ea74939032d6fdcf1a294cf68d5dcad.jpg"
+    },
+    {
       "id": 2,
       "name": "Airi Sakura",
       "mbti": "INFP",
       "descricao": "Tímida, quieta e atenciosa. Ex-ídolo de gravura que se torna mais confiante após ser ajudada por Kiyotaka. Boa em cooperar com colegas, mas com notas acadêmicas e físicas abaixo da média. Tem grande sensibilidade social e admiração por pessoas confiáveis.",
-      "imagem": "https://vignette.wikia.nocookie.net/you-zitsu/images/3/3b/Airi_Sakura.png"
-    }, {
+      "imagem": "https://i.pinimg.com/736x/6f/9c/6f/6f9c6fb1e74c3ef9ec7d4e1ef876820a.jpg"
+    },
+    {
       "id": 3,
       "name": "Chihiro Shiranami",
       "mbti": "INFP",
       "descricao": " Emotiva, mas determinada a manter relações próximas com aqueles que valoriza. Atuou como líder de sua classe durante o Survival Test e demonstra cuidado com o bem-estar da turma.",
-      "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/f/f8/Chihiro_Shiranami_LN_visual.jpg/revision/latest?cb=20170803061232"
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3tospIDa7XnSIUkanHikD4VzehBLUWC-quFV9NNuA5ZK5GHiXqYwq9oU&s=10"
     }
   ],
   "ENFJ": [
-   {
+    {
       "id": 1,
       "name": "Takuya Yagami",
       "mbti": "ENFJ",
       "descricao": "Takuya é um aluno extremamente inteligente e estratégico, capaz de manipular pessoas e situações para atingir seus objetivos. Apesar de sua fachada gentil, ele possui uma personalidade sombria e implacável, demonstrando coragem, liderança e uma habilidade notável para planejamento e dedução.",
-      "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/3/3b/Takuya_Yagami_Anime.png/revision/latest?cb=20180614232946"
+      "imagem": "https://i.pinimg.com/736x/b6/9d/f9/b69df90a896563cdff9c461386157164.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Yōsuke Hirata",
+      "mbti": "ENFJ",
+      "descricao": " Jovem de estatura média, cabelos loiros e olhos castanhos. Conhecido por sua personalidade madura, amigável e diplomática, mas pode se abalar sob pressão. Demonstrou habilidades de liderança e estratégia durante o teste de sobrevivência.",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRuJ9nWj79pOBL5nyZZQoqH0MYfC3_TT621odYP_8zt28Zn6VaOIiAMoos&s=10"
+    },
+    
+    {
+      "id": 3,
+      "name": "Nazuna Asahina",
+      "mbti": "ENFJ",
+      "descricao": " Nazuna tem uma personalidade ruda, mas é querida e influente entre os colegas do segundo ano. Ela valoriza seu amuleto de sorte e age de forma justa, ajudando aqueles que precisam. Apesar de próxima de Miyabi Nagumo, ela não o idolatra e mantém sua independência.",
+      "imagem": "https://i.pinimg.com/736x/7a/44/23/7a4423887ab71b00642492e01908a969.jpg"
     }
   ],
   "ENFP": [
@@ -110,36 +262,62 @@
       "name": "Kei Karuizawa",
       "mbti": "ENFP",
       "descricao": "Leal, sensível e estratégica. Inicialmente mimada, mas desenvolve lógica e astúcia para proteger a si mesma e aos que considera importantes, especialmente Kiyotaka. Consegue ler pessoas e situações com precisão.",
-      "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/e/ee/Kei_Karuizawa_LN_visual.png/revision/latest?cb=20220315111811"
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWGy3vK-r__nXUIvncr1HtMDQZeNzguKB8DPfKk9GZXw&s=10"
     }
   ],
   "ISTJ": [
-     {   
+    {
       "id": 1,
       "name": "Suzune Horikita",
       "mbti": "ISTJ",
       "descricao": "Séria, inteligente e determinada, inicialmente antissocial e condescendente. Busca reconhecimento e sucesso acadêmico, aprende a trabalhar em equipe com o tempo e desenvolve empatia e humildade. Habilidades acadêmicas e físicas acima da média, com grande capacidade analítica.",
-      "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/3/3f/Suzune_Horikita_LN_visual.png/revision/latest?cb=20170901054140"
-    }, {
+      "imagem": "https://i.pinimg.com/736x/5d/9d/a0/5d9da0788bff461f226d95e16985a7bc.jpg"
+    },
+    {
       "id": 2,
       "name": "Albert Yamada",
       "mbti": "ISTJ",
       "descricao": "Forte, leal e confiável. Executor de Kakeru Ryūen, segue ordens sem questionar, mas demonstra consciência ao lidar com os colegas. Habilidades físicas excepcionais, grande força e resistência. Único personagem afro-japonês da série, não fala japonês, apenas inglês.",
-      "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/5/59/Albert_Yamada_LN_visual.png/revision/latest?cb=20191126113024"
-    }, {
+      "imagem": "https://cdn.myanimelist.net/images/characters/4/539121.jpg"
+    },
+   
+    {
       "id": 3,
-      "name": "Hayato Kitō",
-      "mbti": "INTJ",
-      "descricao": " Extremamente ansioso, mas calmo e protetor. Age como um cuidador para os colegas, demonstrando grande força e durabilidade. Capanga de Arisu Sakayanagi, suas habilidades completas ainda são misteriosas. Seu objetivo declarado é proteger a turma com sua vida.",
-      "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/b/b9/Hayato_Kit%C5%8D_LN_visual.png/revision/latest?cb=20191126115255"
-    },{
-  "id": 2,
-  "name": "Ikuto Kiriyama",
-  "mbti": "ISTJ",
-  "descricao": "Inteligente, leal e estratégico. Ikuto idolatra Manabu Horikita e segue regras rigorosamente, mas sabe agir de forma calculista para alcançar objetivos. É cauteloso com quem confia, demonstra frieza ao lidar com adversários como Miyabi Nagumo, e possui uma postura séria e determinada em suas decisões.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/9/9b/Ikuto_Kiriyama_LN_visual.png/revision/latest?cb=20210223171352"
-}
+      "name": "Ikuto Kiriyama",
+      "mbti": "ISTJ",
+      "descricao": "Inteligente, leal e estratégico. Ikuto idolatra Manabu Horikita e segue regras rigorosamente, mas sabe agir de forma calculista para alcançar objetivos. É cauteloso com quem confia, demonstra frieza ao lidar com adversários como Miyabi Nagumo, e possui uma postura séria e determinada em suas decisões.",
+      "imagem": "https://i.pinimg.com/originals/3b/c9/c3/3bc9c3d89dc868f2032d9fa1af146e90.jpg"
+    },
+    {
+      "id": 4,
+      "name": "Tomonari Mashima",
+      "mbti": "ISTJ",
+      "descricao": "Professor de inglês e titular da Classe 1-A. Homem adulto alto, de cabelos castanhos e olhos verdes, geralmente usando blazer preto, camisa social e gravata. Leva seu trabalho muito a sério, é virtuoso e se mantém fiel à sua moral, dedicando-se a ajudar os alunos. Participa da organização e explicação dos exames especiais.",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQABiWGMhYP-IasSlQOksBJDettpCzFpJqhTji-7IJO-d_yQXzOvV_v7vzE&s=10"
+    },
+    {
+      "id": 5,
+      "name": "Teruhiko Yukimura",
+      "mbti": "ISTJ",
+      "descricao": "Aluno da Classe 1-D. Apesar de excelente academicamente, possui baixa aptidão física e habilidades sociais limitadas. Inicialmente despreza a turma, mas depois aceita a situação e ajuda colegas. Prefere ser chamado de Keisei, nome dado pelo pai.",
+      "imagem": "https://i.pinimg.com/736x/4c/d1/34/4cd1344c3e39b40e48f37ff890ba9da7.jpg"
+    },
 
+    {
+      "id": 6,
+      "name": "Ryūji Kanzaki",
+      "mbti": "ISTJ",
+      "descricao": "Estudante diligente, amigável e leal, ajudou a Classe D em várias situações e demonstrou grande inteligência ao identificar situações suspeitas durante exames.",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1F8wNel3T9_70mgJKMSVJRr4yqtVI70Jb1qU1Bzeqpw&s=10"
+    },
+
+    {
+      "id": 7,
+      "name": "Kōhei Katsuragi",
+      "mbti": "ISTJ",
+      "descricao": " Inteligente, sério e responsável, segue regras e boas condutas. Participou do exame da ilha desabitada e tinha uma facção que o seguia. Sua facção perde influência após reprovação no exame, mas ele mantém seu caráter íntegro. Trabalha para se moderar e se tornar mais forte, física e espiritualmente.",
+      "imagem": "https://i.pinimg.com/474x/21/dd/c5/21ddc508233407b4b91d984fde697c0d.jpg"
+    }
   ],
   "ISFJ": [
     {
@@ -147,55 +325,139 @@
       "name": "Akane Tachibana",
       "mbti": "ISFJ",
       "descricao": "Séria, dedicada e sociável. Secretária do Conselho Estudantil, demonstra liderança e respeito pelas regras. Admira superiores e mantém postura responsável, mas pode ficar nervosa diante de situações inesperadas. Habilidades acadêmicas acima da média e grande capacidade de organização.",
-      "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/e/e9/Akane_Tachibana_LN_visual.png/revision/latest?cb=20170730142102"
-    }, {
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIRLCS6xwCxiuZzFivleBZde3bBaqnDElpkUm4JCbB0rcl4Acq4nBPmVjc&s=10"
+    },
+    {
       "id": 2,
       "name": "Kikyō Kushida",
       "mbti": "ISFJ",
       "descricao": "Carismática, estratégica e determinada, consegue manipular pessoas para atingir seus objetivos, escondendo sua verdadeira personalidade por trás de uma fachada amigável.",
-      "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/2/24/Takuya_Yagami_LN_2nd_Year_Arc_visual.png/revision/latest?cb=20191025132826"
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3DCm_rT3U-pPj2kLrXiC8ETGpr3s8K06A-7wN1ykuyA&s=10"
+    },
+    {
+      "id": 3,
+      "name": "Tsubasa Nanase",
+      "mbti": "ISFJ",
+      "descricao": " Tsubasa é educada, calma e respeitosa, mas também determinada e confiante, especialmente ao lidar com injustiças ou violência. Durante os eventos da light novel, ela busca vingança pela morte de seu amigo Eiichirō Matsuo e acaba se envolvendo na trama contra Kiyotaka Ayanokōji, embora no final decida ajudá-lo.",
+      "imagem": "https://i.pinimg.com/736x/e2/bf/2b/e2bf2bfe9dcb52e39f715e063b6cb571.jpg"
+    },
+    
+    {
+      "id": 4,
+      "name": "Mei Yu Wang",
+      "mbti": "ISFJ",
+      "descricao": "  Acadêmica e intelectualmente capaz, destaca-se por suas notas altas, especialmente em inglês. Possui cabelos índigo presos em maria-chiquinhas e olhos rosa-violeta, sendo geralmente vista com o uniforme escolar feminino.",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTxjYRZEb8E6hD-sfrg4936hIKIJECq9kJ1F6HVlDQstw&s=10"
+    },
+    {
+      "id": 5,
+      "name": "Kokoro Inogashira",
+      "mbti": "ISFJ",
+      "descricao": "Hobby de costurar, sendo habilidosa em tricotar roupas e outros itens. Recebeu apoio de Kikyō Kushida durante a apresentação da turma, o que a deixou mais confiante.",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9Syk3qy9G-2n7wJE0ocxuL3YyIm1hzc6Cj6W1DIF6k--PMnu3fknpugN8&s=10"
     }
   ],
   "ESTJ": [
     {
-      "id": 1
+      "id": 1,
+      "name": "Satsuki Shinohara",
+      "mbti": "ESTJ",
+      "descricao": " É amigável com seus colegas, mas desconfia de estranhos. Participa do Clube de Vôlei e tem forte senso de justiça, defendendo quem precisa.",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCXfD55niKysQgktmVPx0cU1pqiy2BwO-_2q3rmhyn9ovmlyECXNOPuB8&s=10"
+    },
+    {
+      "id": 2,
+      "name": "Kōji Machida",
+      "mbti": "ESTJ",
+      "descricao": "Teimoso e inflexível, segue estratégias da turma priorizando a vantagem da classe. Comportado e confiante, demonstra espírito competitivo e lealdade à agenda da Classe A. Participou de exames especiais, incluindo o da ilha desabitada e o de seleção de eventos, mostrando assertividade estratégica e cooperação seletiva.",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTepoNqjhfN5lwGfkOTiN6np2sA0LHSoOnRiS2E1Sxv5g&s=10"
+    },
+    {
+      "id": 3,
+      "name": "Kazuma Sakagami",
+      "mbti": "ESTJ",
+      "descricao": "Professor da Classe 1-C. Um educador rigoroso que às vezes ultrapassa os limites tradicionais, participando ativamente dos eventos da escola e supervisionando exames especiais.",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTVq6jl7M10EwxaI6GliISxvGGsIHeWpg4aJ-bybwtFHsQoUV4NITsd650c&s=10"
     }
   ],
   "ESFJ": [
-     {
+    {
       "id": 1,
       "name": "Chie Hoshinomiya",
       "mbti": "ESFJ",
       "descricao": " Simpática, observadora e perspicaz, apesar de ter hábitos como beber. Reconhece talentos ocultos nos alunos e não teme expressar suas opiniões sobre a capacidade da classe. Preocupa-se com o progresso de seus estudantes e mantém uma postura atenciosa.",
-      "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/9/94/Chie_Hoshinomiya_LN_visual.png/revision/latest?cb=20191126120405"
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLJ1Ll5rXy-CmVl2ljGRV5GMN4O3nHve_1Ohndm1HX1HpEZoh9rrZ4LsPU&s=10"
+    },
+    {
+      "id": 2,
+      "name": "Yuki",
+      "mbti": "ESFJ",
+      "descricao": "Personagem do volume prequel da série. Aluna da 4ª geração da Sala Branca e antiga colega de Kiyotaka Ayanokōji. Sua aparência e personalidade compartilham semelhanças com Sakurako Tsubaki, e seu relacionamento exato com outros personagens ainda é misterioso.",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTCo5AkY60_HEztepDlAr9fB7_EeXEIZaqmPcwXUquJetUht1BtCfMSDBn0&s=10"
+    },
+    {
+      "id": 19,
+      "name": "Mako Amikura",
+      "mbti": "ESFJ",
+      "descricao": "Sua personalidade e habilidades não estão detalhadas, mas é destacada na light novel e aparece em várias temporadas do anime e volumes do mangá. A partir do Volume 9, seu sobrenome é alterado para Asakura.",
+      "imagem": "https://i.pinimg.com/736x/d1/e5/9a/d1e59aa640459d47f59c3b95fca52d0a.jpg"
     }
   ],
   "ISTP": [
-     {
+    {
       "id": 1,
       "name": "Akito Miyake",
       "mbti": "ISTP",
       "descricao": "Toma decisões rápidas quando necessário e mostra boa capacidade de cooperação, embora não seja excessivamente proativo. Acadêmico irregular, mas capaz de se esforçar quando necessário.",
-      "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/b/bc/Akito_Miyake_LN_visual.png/revision/latest?cb=20170731101948"
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRiBrL7oLKU0VQjjucMmYheQwqe1bMOlmzlOT_7aTx66LhBg124-yFzcpMP&s=10"
+    },
+    {
+      "id": 2,
+      "name": "Takeko Nishino",
+      "mbti": "ISTP",
+      "descricao": "Aluno da Classe 2-B. Tem olhos violeta e cabelo castanho avermelhado preso em rabo de cavalo. Fala o que pensa sem hesitar e tende a ser um pouco solitária.",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcReIVnxyQ8nIgDJtatKnKUDuVXMqe46sSTcqTlFUdH79w&s=10"
+    },
+
+    {
+      "id": 3,
+      "name": "Riku Utomiya",
+      "mbti": "ISTP",
+      "descricao": "É calmo, confiável e possui altas habilidades físicas (OAA classificado como A). Ele interveio em conflitos para proteger colegas e é respeitado por sua turma.",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRcZMDqNyUjJmkvR-J9DNTESoZRKz1b3kvU-WFHwE08GQ&s=10"
     }
   ],
 
   "ISFP": [
-   {
+    {
       "id": 1,
       "name": "Asuka Shiraishi",
       "mbti": "ISFP",
       "descricao": " Embora ainda pouco explorada, é provável que seja responsável, cautelosa e comprometida com os colegas e atividades escolares.",
-      "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/3/35/Asuka_Shiraishi_LN_visual.png/revision/latest?cb=20250315082710"
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSKpUwm9ztQP_OtBmWqq7R9r0g3UweYNVlEW4Q77hBMzY0cGuOJ-E4Yfhs&s=10"
     }
   ],
   "ESTP": [
-   {
+    {
       "id": 1,
       "name": "Fūka Kiryūin",
       "mbti": "ESTP",
       "descricao": " Única pessoa da escola com nota A+ tanto em habilidades acadêmicas quanto físicas, mostrando grande confiança e habilidades excepcionais. Despreocupada, só contribui com pontos de classe quando há vantagem pessoal, e mantém interesse seletivo em pessoas como Kiyotaka Ayanokōji.",
-      "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/6/68/F%C5%ABka_Kiry%C5%ABin_LN_Visual.png/revision/latest?cb=20210223133447"
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtWPGuGkgo_onlpUiImLX3-OUWmx_BaPVQdYHHNfX2tw&s=10"
+    },
+    {
+      "id": 2,
+      "name": "Kakeru Ryūen",
+      "mbti": "ESTP",
+      "descricao": " Inteligente e estratégico, mas com natureza sádica e agressiva. Tem grande domínio sobre seus seguidores e é fisicamente forte. Apesar da brutalidade, demonstra preocupação com sua classe e alguns aliados.",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTr4aK8hIVy3jXFmrWRXTUyJVTp5_DCW98955EG9Mo6ew&s=10"
+    },
+    {
+      "id": 36,
+      "name": "Rokusuke Kōenji",
+      "mbti": "ESTP",
+      "descricao": "Alto, atlético e narcisista. Vem de uma família de acadêmicos renomada, mas seu comportamento egoísta o colocou na Classe D. Extremamente habilidoso fisicamente, rápido nadador e acrobático. Tem uma personalidade arrogante, autoconfiante e independente.",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRyjY8ZWCHTj3xgRbkA5ThoD8T0Ij61eG8zxhsdcvcbBw&s=10"
     }
   ],
   "ESFP": [
@@ -204,566 +466,66 @@
       "name": "Daichi Ishizaki",
       "mbti": "ESFP",
       "descricao": "Propenso a violência e frequentemente envolvido em brigas, mas demonstra senso de honra em certas situações, ajudando seu time. Mostra habilidades físicas notáveis, mas não é páreo para Kiyotaka Ayanokōji. Participou de jogos de sobrevivência e corridas em equipe.",
-      "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/1/1b/Daichi_Ishizaki_LN_visual.png/revision/latest?cb=20191126112324"
-    }, {
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZONNM1Q1V3BDfOti0Hbp0HB51umhBZYFv56-iDdL2Gw&s=10"
+    },
+    {
       "id": 2,
       "name": "Haruki Yamauchi",
       "mbti": "ESFP",
       "descricao": ". Tendência a mentir e lado pervertido, especialmente interessado em garotas da Classe D como Haruka Hasebe e Airi Sakura. Inicialmente egocêntrico e condescendente, mas raramente demonstra maturidade. Foi manipulado por Arisu Sakayanagi e expulso da escola. Seu defeito é a propensão a mentir.",
-      "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/7/7e/Haruki_Yamauchi_LN_visual.png/revision/latest?cb=20170901061620"
+      "imagem": "https://i.pinimg.com/564x/37/c8/60/37c860d477eb1ce37d7b921179ea04c5.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Shiho Manabe",
+      "mbti": "ESFP",
+      "descricao": " Tem cabelos brilhantes na altura dos ombros presos em tranças e olhos claros ou escuros. Participou do Teste Especial do Navio de Cruzeiro e acabou sendo expulsa da escola em lugar do líder de sua turma.",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQlZpSleUdOWEuN3MHTXbwbPFtMQQgVVf4DYg1vF-fMsA&s=10"
+    },
+    {
+      "id": 4,
+      "name": "Satoru Kaneda",
+      "mbti": "ESFP",
+      "descricao": " Ele atuou como espião durante o Teste Especial da Ilha Deserta e se destacou na votação da classe, ganhando um ponto de proteção. Foi escolhido como Comandante no exame especial final do primeiro ano.",
+      "imagem": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpd-VJe8xh3MPTnvK_wNUHtUf560-jgB9RdECn7B9l-4wE880xCs2sZpk&s=10"
+    },
+    {
+      "id": 5,
+      "name": "Kanji Ike",
+      "mbti": "ESFP",
+      "descricao": " Apesar da inteligência abaixo da média, possui boas habilidades de comunicação e experiência em acampamentos, que ajudaram sua turma em testes de sobrevivência. Tem um lado pervertido e interesse por garotas, mas demonstra disposição para reconhecer seus defeitos.",
+      "imagem": "https://i.pinimg.com/736x/57/43/5f/57435fe7f6c230e89e08b6f5b0001122.jpg"
+    },
+    {
+      "id": 6,
+      "name": "Kayano Onodera",
+      "mbti": "ESFP",
+      "descricao": "Aluna da Classe 1-D, membro do Clube de Natação e considerada a melhor nadadora entre as meninas da turma. É gentil e amigável.",
+      "imagem": "https://i.pinimg.com/564x/26/28/ff/2628ff0f8c1e6e359ef2ab06ca96396d.jpg"
     }
-  ], 
+  ],
   "ENTJ": [
-       {
+    {
       "id": 1,
       "name": "Atsuomi Ayanokōji",
       "mbti": "ENTJ",
       "descricao": "Pai de Kiyotaka Ayanokōji e fundador da Sala Branca. Homem de meia-idade, ambicioso e estratégico, com visão de criar indivíduos perfeitos para liderar o Japão. Apesar de seu orgulho e disciplina rígida, demonstra pouca afeição pessoal, tratando o filho como um recurso valioso.",
-      "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/5/50/LN_Vol_07-05.jpg/revision/latest?cb=20171024162438"
+      "imagem": "https://i.pinimg.com/736x/71/95/4e/71954eab874a37ab682fa01d974f18bb.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Sae Chabashira",
+      "mbti": "ENTJ",
+      "descricao": "Professora de história japonesa e designada da Classe D. Leva seu trabalho muito a sério, possui tendências sadísticas sutis e é extremamente perceptiva, reconhecendo talentos ocultos nos alunos e mantendo seu próprio senso de justiça.",
+      "imagem": "https://i.pinimg.com/736x/dc/74/bc/dc74bc9ee9912c80b7a0b19c86bab8f4.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Manabu Horikita",
+      "mbti": "ENTJ",
+      "descricao": " Homem sério, inteligente e disciplinado, com grande habilidade em artes marciais (5º Dan em karatê e 4º Dan em aikido). Reconhece rapidamente o talento alheio e mantém alto padrão de conduta e expectativas.",
+      "imagem": "https://i.pinimg.com/736x/4a/85/b2/4a85b2a4f2810c5c0c9948b121e3c4f0.jpg"
     }
-],
- "NAO-REGISTRTADOS": [
-     {
-  "id": 3,
-  "name": "Kakeru Ryūen",
-  "mbti": "Desconhecido",
-  "descricao": "Representante da Classe 1-C, conhecido por ser um delinquente infame e liderar pelo medo. Inteligente e estratégico, mas com natureza sádica e agressiva. Tem grande domínio sobre seus seguidores e é fisicamente forte. Apesar da brutalidade, demonstra preocupação com sua classe e alguns aliados.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/3/30/Kakeru_Ry%C5%ABen_visual.png/revision/latest?cb=20171005083132"
-}
-,
-{
-  "id": 4,
-  "name": "Kanji Ike",
-  "mbti": "Desconhecido",
-  "descricao": "Aluno da Classe 1-D, conhecido como um dos '3 Idiotas da Classe D'. Apesar da inteligência abaixo da média, possui boas habilidades de comunicação e experiência em acampamentos, que ajudaram sua turma em testes de sobrevivência. Tem um lado pervertido e interesse por garotas, mas demonstra disposição para reconhecer seus defeitos.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/3/30/Kanji_Ike_visual.png/revision/latest?cb=20171005082519"
-}
-,
-
-{
-  "id": 5,
-  "name": "Katsunori Shiba",
-  "mbti": "Desconhecido",
-  "descricao": "Professor da Classe 1-D no arco do 2º ano. Conhece a história de Kiyotaka Ayanokōji e trabalha junto com Tsukishiro para expulsá-lo. É rígido e não hesita em usar ameaças ou violência para atingir seus objetivos.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/5/50/Katsunori_Shiba_visual.png/revision/latest?cb=20171005082519"
-}
-,
-{
-  "id": 6,
-  "name": "Kayano Onodera",
-  "mbti": "Desconhecido",
-  "descricao": "Aluna da Classe 1-D, membro do Clube de Natação e considerada a melhor nadadora entre as meninas da turma. É gentil e amigável.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/3/3b/Kayano_Onodera_visual.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 7,
-  "name": "Kazuma Sakagami",
-  "mbti": "Desconhecido",
-  "descricao": "Professor da Classe 1-C. Um educador rigoroso que às vezes ultrapassa os limites tradicionais, participando ativamente dos eventos da escola e supervisionando exames especiais.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/2/26/Kazuma_Sakagami.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 8,
-  "name": "Kazuomi Hōsen",
-  "mbti": "Desconhecido",
-  "descricao": "Aluno da Classe 1-D no 2º Ano. Altamente forte, egoísta e violento, mas também possui excelente desempenho acadêmico. Líder da Classe D do 1º ano, combina força física e inteligência.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/2/26/Kazuomi_Housen.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 9,
-  "name": "Kei Karuizawa",
-  "mbti": "Desconhecido",
-  "descricao": "Aluna do 2º Ano, Classe D. Líder feminina da turma, elegante e moderna. Apesar de aparentar ser mimada e egoísta, possui força mental, lealdade e uma mente lógica excepcional. Relacionamento próximo com Kiyotaka Ayanokōji.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/3/30/Kei_Karuizawa.png/revision/latest?cb=20171005083132"
-}
-,
-{
-  "id": 10,
-  "name": "Ken Sudō",
-  "mbti": "Desconhecido",
-  "descricao": "Aluno do 2º Ano, Classe D. Membro do Clube de Basquete, considerado um dos '3 Idiotas da Classe D' devido ao baixo desempenho acadêmico. Apesar disso, possui grande habilidade atlética e determinação. Temperamento explosivo, mas demonstra lealdade e esforço quando motivado. Desenvolve sentimentos românticos por Suzune Horikita.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/2/22/Ken_Sud%C5%8D.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 11,
-  "name": "Kijima",
-  "mbti": "Desconhecido",
-  "descricao": "Atual Primeiro-Ministro do Japão e membro do Partido Cidadão. Homem mais velho, com cabelos pretos grisalhos nas pontas, geralmente visto usando terno. Personagem da Light Novel, 2º Ano, Volume 12.5.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/0/0b/Kijima.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 12,
-  "name": "Kokoro Inogashira",
-  "mbti": "Desconhecido",
-  "descricao": "Aluna da Classe 1-D, tímida e gentil. Possui cabelos castanhos na altura dos ombros e olhos violeta com gradiente amarelo. Hobby de costurar, sendo habilidosa em tricotar roupas e outros itens. Recebeu apoio de Kikyō Kushida durante a apresentação da turma, o que a deixou mais confiante.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/2/23/Kokoro_Inogashira.png/revision/latest?cb=20180614232946"
-}
-,
-
-{
-  "id": 13,
-  "name": "Kozue Minamikata",
-  "mbti": "Desconhecido",
-  "descricao": "Estudante da Classe 2-C. Geralmente vista vestindo o uniforme escolar. Participou do arco de Avaliação OAA e faz parte das atividades da turma. Pouco se sabe sobre sua personalidade em detalhes.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/2/23/Kozue_Minamikata.png/revision/latest?cb=20180614232946"
-}
-,
-
-{
-  "id": 14,
-  "name": "Kyō Ishigami",
-  "mbti": "Desconhecido",
-  "descricao": "Aluno da Classe 1-A do 2º Ano. Considerado um gênio acadêmico, com raciocínio excepcional, mas com habilidades físicas baixas. Misterioso e estratégico, evita chamar atenção, mas ajuda Kiyotaka Ayanokōji com conselhos indiretos. É muito respeitado por sua inteligência e posição como líder da turma.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/4/44/Kyo_Ishigami.png/revision/latest?cb=20180614232946"
-}
-,
-
-{
-  "id": 15,
-  "name": "Kyōgo Komiya",
-  "mbti": "Desconhecido",
-  "descricao": "Aluno da Classe 1-C e membro do Clube de Basquete. Trabalha arduamente para se tornar um jogador regular no clube. Frequentemente atua como aliado de Kakeru Ryūen e seguiu o Grupo Ayanokōji sob suas ordens. Possui interesse romântico por Satsuki Shinohara e participou do exame da ilha desabitada com ela.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/1/12/Kyogo_Komiya.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 16,
-  "name": "Kōhei Katsuragi",
-  "mbti": "Desconhecido",
-  "descricao": "Aluno da Classe 1-A e um dos líderes da classe. Inteligente, sério e responsável, segue regras e boas condutas. Participou do exame da ilha desabitada e tinha uma facção que o seguia. Sua facção perde influência após reprovação no exame, mas ele mantém seu caráter íntegro. Trabalha para se moderar e se tornar mais forte, física e espiritualmente.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/3/30/Kohei_Katsuragi.png/revision/latest?cb=20171005083132"
-}
-,
-{
-  "id": 17,
-  "name": "Kōji Machida",
-  "mbti": "Desconhecido",
-  "descricao": "Aluno da Classe 1-A, teimoso e inflexível, segue estratégias da turma priorizando a vantagem da classe. Comportado e confiante, demonstra espírito competitivo e lealdade à agenda da Classe A. Participou de exames especiais, incluindo o da ilha desabitada e o de seleção de eventos, mostrando assertividade estratégica e cooperação seletiva.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/3/30/Koji_Machida.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 18,
-  "name": "Kōsei Sanada",
-  "mbti": "Desconhecido",
-  "descricao": "Aluno da Classe 2-A, estudioso, educado e sereno. Destaca-se por sua estabilidade emocional, análise situacional e empatia, mantendo postura calma mesmo em conflitos. Participou de exames especiais e atua como representante de vanguarda da classe, sendo confiável e estratégico. Também é talentoso musicalmente, integrando a banda da escola e mantendo um relacionamento secreto com Miya.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/7/7d/Sanada_Kosei.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 19,
-  "name": "Mako Amikura",
-  "mbti": "Desconhecido",
-  "descricao": "Aluna da Classe 1-B, de altura média e geralmente vista com uniforme escolar. Sua personalidade e habilidades não estão detalhadas, mas é destacada na light novel e aparece em várias temporadas do anime e volumes do mangá. A partir do Volume 9, seu sobrenome é alterado para Asakura.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/3/3d/Mako_Amikura.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 20,
-  "name": "Manabu Horikita",
-  "mbti": "Desconhecido",
-  "descricao": "Ex-aluno da Advanced Nurturing High School, irmão mais velho de Suzune Horikita e ex-presidente do conselho estudantil. Homem sério, inteligente e disciplinado, com grande habilidade em artes marciais (5º Dan em karatê e 4º Dan em aikido). Reconhece rapidamente o talento alheio e mantém alto padrão de conduta e expectativas.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/3/3d/Manabu_Horikita.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 21,
-  "name": "Masayoshi Hashimoto",
-  "mbti": "Desconhecido",
-  "descricao": "Aluno da Classe 1-A, egoísta e pragmático, que sempre se alia ao lado vencedor. Possui bons contatos sociais e é leal apenas a si mesmo. Intervém em conflitos quando necessário e participa ativamente das atividades da Classe A, incluindo o Evento de Seleção.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/7/7f/Masayoshi_Hashimoto.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 22,
-  "name": "Masumi Kamuro",
-  "mbti": "Desconhecido",
-  "descricao": "Estudante da Classe 1-A e membro do Clube de Arte. Leal e honesta, próxima de Arisu Sakayanagi, segue suas ordens e participa de investigações e estratégias. É conhecida por suas habilidades de observação e ocasionalmente envolvida em pequenas transgressões, como furtos, que são ignorados por sua lealdade à Sakayanagi.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/8/89/Masumi_Kamuro.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 23,
-  "name": "Maya Satō",
-  "mbti": "Desconhecido",
-  "descricao": "Aluna da Classe 1-D, popular entre os colegas e uma das líderes femininas da turma. Amigável, cooperativa e corajosa, demonstra interesse romântico por Kiyotaka Ayanokōji e não tem medo de se arriscar para se aproximar dele. Apesar de sua popularidade, possui habilidades acadêmicas e físicas abaixo da média e um histórico de ausências na escola.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/8/89/Maya_Sato.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 24,
-  "name": "Mei Yu Wang",
-  "mbti": "Desconhecido",
-  "descricao": "Aluna da Classe 1-D, apelidada de Mii-chan. Vem da China e é fluente em vários idiomas. Acadêmica e intelectualmente capaz, destaca-se por suas notas altas, especialmente em inglês. Possui cabelos índigo presos em maria-chiquinhas e olhos rosa-violeta, sendo geralmente vista com o uniforme escolar feminino.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/8/89/Mei_Yu_Wang.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 25,
-  "name": "Miki Yamamura",
-  "mbti": "Desconhecido",
-  "descricao": "Aluna da Advanced Nurturing High School, Classe 2-A. Introvertida e reservada, com grande habilidade acadêmica, especialmente em matemática. Atua como espiã e recolhedora de informações para Arisu Sakayanagi, usando sua presença discreta. Possui cabelos azul-petróleo presos em rabo de cavalo alto e olhos azul-esverdeados suaves.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/8/89/Miki_Yamamura.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 24,
-  "name": "Mei-Yu Wang",
-  "mbti": "Desconhecido",
-  "descricao": "Aluna da Classe 1-D. Inteligente e academicamente adaptável, com destaque em inglês e consistência em provas. Vinda da China, permanece no Japão desde o ensino fundamental. Possui cabelos índigo presos em maria-chiquinhas e olhos rosa-violeta.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/2/2e/Mei_Yu_Wang.png/revision/latest?cb=20171112132623"
-}
-,
-{
-  "id": 25,
-  "name": "Miki Yamamura",
-  "mbti": "Desconhecido",
-  "descricao": "Aluna da Advanced Nurturing High School, Classe 2-A. Introvertida e reservada, com grande habilidade acadêmica, especialmente em matemática. Atua como espiã e recolhedora de informações para Arisu Sakayanagi, usando sua presença discreta. Possui cabelos azul-petróleo presos em rabo de cavalo alto e olhos azul-esverdeados suaves.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/8/89/Miki_Yamamura.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 26,
-  "name": "Minori Kinoshita",
-  "mbti": "Desconhecido",
-  "descricao": "Aluna da Advanced Nurturing High School, Classe 1-C. Corredora rápida e ágil, participou de diversas atividades físicas e exames. Envolvida em lesões durante provas e exames, mostrando determinação apesar das adversidades. Possui cabelos escuros e olhos cinzentos.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/1/1f/Minori_Kinoshita.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 27,
-  "name": "Mio Ibuki",
-  "mbti": "Desconhecido",
-  "descricao": "Aluna da Advanced Nurturing High School, Classe 1-C. Possui excelentes qualidades acadêmicas e físicas, sendo habilidosa em combate e artes marciais, incluindo Capoeira. Prefere atuar sozinha, demonstrando independência e desconfiança, mas não aprova crueldade injusta. Tem cabelos curtos azuis com uma mecha espetada e olhos roxos.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/3/3a/Mio_Ibuki.png/revision/latest?cb=20171005082519"
-}
-,
-{
-  "id": 28,
-  "name": "Miyabi Nagumo",
-  "mbti": "Desconhecido",
-  "descricao": "Aluno da 3ª série-A da Advanced Nurturing High School e ex-presidente do Conselho Estudantil. Nagumo é carismático, manipulador e estratégico, com grande habilidade em liderança e persuasão. Ele é alto, de pele clara, cabelos loiros claros e olhos azuis. Conhecido por seu controle sobre os alunos do 3º ano, ambiciona criar uma ordem meritocrática na escola e é perspicaz na exploração de fraquezas alheias.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/2/2c/Miyabi_Nagumo.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 29,
-  "name": "Nanami Yabu",
-  "mbti": "Desconhecido",
-  "descricao": "Aluna da Classe 1-C. Nanami é estudiosa e participa das atividades da classe, mas não há muitos detalhes sobre sua personalidade ou habilidades especiais. Ela veste o uniforme escolar padrão e é conhecida por seu comportamento tranquilo.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/2/2c/Nanami_Yabu.png/revision/latest?cb=20180614232946"
-},
-
-{
-  "id": 29,
-  "name": "Nanami Yabu",
-  "mbti": "Desconhecido",
-  "descricao": "Aluna da Classe 1-C. Nanami é estudiosa e participa das atividades da classe, mas não há muitos detalhes sobre sua personalidade ou habilidades especiais. Ela veste o uniforme escolar padrão e é conhecida por seu comportamento tranquilo.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/2/2c/Nanami_Yabu.png/revision/latest?cb=20180614232946"
-},{
-  "id": 30,
-  "name": "Nazuna Asahina",
-  "mbti": "Desconhecido",
-  "descricao": "Aluna da Classe 3-A. Nazuna tem uma personalidade ruda, mas é querida e influente entre os colegas do segundo ano. Ela valoriza seu amuleto de sorte e age de forma justa, ajudando aqueles que precisam. Apesar de próxima de Miyabi Nagumo, ela não o idolatra e mantém sua independência.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/5/5e/Nazuna_Asahina.png/revision/latest?cb=20180614232946"
-},
-{
-  "id": 31,
-  "name": "Nene Mori",
-  "mbti": "Desconhecido",
-  "descricao": "Aluna da Classe 1-D. Nene é frequentemente vista saindo com Kei Karuizawa e Chiaki Matsushita, além de participar de grupos sociais com outros colegas do primeiro ano. Ela é sociável, amistosa e se envolve em diversas atividades com seus amigos.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/2/24/Nene_Mori.png/revision/latest?cb=20180614232946"
-},
-
-{
-  "id": 32,
-  "name": "Norihito Watanabe",
-  "mbti": "Desconhecido",
-  "descricao": "Aluno da Classe 1-B. Norihito é de altura média e normalmente visto usando o uniforme escolar. Ele aparece nos eventos do 1º e 2º ano, mas seu papel é mais secundário e discreto em comparação com os protagonistas.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/2/24/Norihito_Watanabe.png/revision/latest?cb=20180614232946"
-},
-
-{
-  "id": 33,
-  "name": "Reo Kondō",
-  "mbti": "Desconhecido",
-  "descricao": "Aluno da Classe 1-C e membro do Clube de Basquete. Reo tem cabelos e olhos castanhos e normalmente usa o uniforme escolar masculino. Ele aparece nos eventos do 1º e 2º ano, mas seu papel é mais secundário.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/2/24/Reo_Kondo.png/revision/latest?cb=20180614232946"
-},
-
-{
-  "id": 34,
-  "name": "Rika Morofuji",
-  "mbti": "Desconhecido",
-  "descricao": "Estudante da Classe 1-C. Rika usa óculos, prende o cabelo em um coque estilo dango e parece dócil. Ela esteve envolvida em conflitos com Kei Karuizawa no refeitório e participou do Uninhabited Island Exam em grupo com colegas da mesma classe.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/2/24/Rika_Morofuji.png/revision/latest?cb=20180614232946"
-}
-,
-
-
-{
-  "id": 35,
-  "name": "Riku Utomiya",
-  "mbti": "Desconhecido",
-  "descricao": "Aluno da Turma 1-C no 2º Ano. Riku tem cabelos azul-escuros e olhos verdes, é calmo, confiável e possui altas habilidades físicas (OAA classificado como A). Ele interveio em conflitos para proteger colegas e é respeitado por sua turma.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/2/26/Riku_Utomiya.png/revision/latest?cb=20180614232946"
-}
-,
-
-{
-  "id": 36,
-  "name": "Rokusuke Kōenji",
-  "mbti": "Desconhecido",
-  "descricao": "Aluno da Classe 1-D, alto, atlético e narcisista. Vem de uma família de acadêmicos renomada, mas seu comportamento egoísta o colocou na Classe D. Extremamente habilidoso fisicamente, rápido nadador e acrobático. Tem uma personalidade arrogante, autoconfiante e independente.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/3/33/Rokusuke_Koenji.png/revision/latest?cb=20171005083132"
-}
-,
-{
-  "id": 37,
-  "name": "Ryōko Nishikawa",
-  "mbti": "Desconhecido",
-  "descricao": "Aluna da Classe 3-C na Escola Secundária de Educação Avançada. Introduzida formalmente no 3º ano. Informações detalhadas sobre personalidade, habilidades e trama não foram completamente documentadas, mas ela participa dos eventos principais do 3º ano.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/1/12/Ryoko_Nishikawa.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 38,
-  "name": "Ryōta Beppu",
-  "mbti": "Desconhecido",
-  "descricao": "Aluno da Classe 2-C. Informações detalhadas sobre aparência, personalidade e trama não estão totalmente documentadas na wiki, mas ele participa dos eventos do 2º ano e volumes correspondentes do mangá e light novel.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/2/2b/Ryota_Beppu.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 39,
-  "name": "Ryōtarō Hondō",
-  "mbti": "Desconhecido",
-  "descricao": "Aluno da Classe 1-D. Amigo de Kanji Ike e Haruki Yamauchi. Participou do Exame da Ilha Desabitada e se destacou por seu esforço físico, chegando exausto no final do exame.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/3/3f/Hondo_Ryotaro.png/revision/latest?cb=20180614232946"
-}
-,
-
-{
-  "id": 40,
-  "name": "Ryūji Kanzaki",
-  "mbti": "Desconhecido",
-  "descricao": "Representante da Classe 1-B. Estudante diligente, amigável e leal, ajudou a Classe D em várias situações e demonstrou grande inteligência ao identificar situações suspeitas durante exames.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/6/6f/Kanzaki_Ryuuji.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 41,
-  "name": "Sae Chabashira",
-  "mbti": "Desconhecido",
-  "descricao": "Professora de história japonesa e designada da Classe D. Leva seu trabalho muito a sério, possui tendências sadísticas sutis e é extremamente perceptiva, reconhecendo talentos ocultos nos alunos e mantendo seu próprio senso de justiça.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/3/38/Sae_Chabashira.png/revision/latest?cb=20171005083132"
-}
-
-,
-{
-  "id": 42,
-  "name": "Saki Yamashita",
-  "mbti": "Desconhecido",
-  "descricao": "Aluna da Classe 1-C. Saki é vista principalmente com seu uniforme escolar, mas não há muitos detalhes sobre sua personalidade ou habilidades.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/2/27/Saki_Yamashita.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 43,
-  "name": "Sakurako Tsubaki",
-  "mbti": "Desconhecido",
-  "descricao": "Aluna do 1º ano da Escola Secundária de Apoio Avançado, inicialmente designada para a Classe 1-C. Sakurako é quieta, fala o mínimo necessário e possui grande perspicácia e intuição.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/9/91/Sakurako_Tsubaki.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 44,
-  "name": "Satoru Kaneda",
-  "mbti": "Desconhecido",
-  "descricao": "Aluno da Classe 1-C, com cabelo bege claro e olhos roxos degradê. Ele atuou como espião durante o Teste Especial da Ilha Deserta e se destacou na votação da classe, ganhando um ponto de proteção. Foi escolhido como Comandante no exame especial final do primeiro ano.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/3/3f/Satoru_Kaneda.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 45,
-  "name": "Satsuki Shinohara",
-  "mbti": "Desconhecido",
-  "descricao": "Aluna da Classe 1-D, com cabelos azuis curtos, presilha rosa e olhos rosa-azulados. É amigável com seus colegas, mas desconfia de estranhos. Participa do Clube de Vôlei e tem forte senso de justiça, defendendo quem precisa.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/5/5a/Satsuki_Shinobara.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 46,
-  "name": "Sayo Andō",
-  "mbti": "Desconhecido",
-  "descricao": "Aluna da Classe 2-C, personagem do 2º ano da série. Informações detalhadas sobre sua personalidade, habilidades e aparições são limitadas, tornando-a um dos personagens mais misteriosos do arco.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/5/5a/Sayo_Ando.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 47,
-  "name": "Shigeru Takemoto",
-  "mbti": "Desconhecido",
-  "descricao": "Aluno da Classe 2-A. Possui cabelos e olhos azuis, visto usando o uniforme escolar. Informações detalhadas sobre sua personalidade e habilidades são limitadas.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/5/5a/Shigeru_Takemoto.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 48,
-  "name": "Shiho Manabe",
-  "mbti": "Desconhecido",
-  "descricao": "Aluna da Classe 1-C. Tem cabelos brilhantes na altura dos ombros presos em tranças e olhos claros ou escuros. Participou do Teste Especial do Navio de Cruzeiro e acabou sendo expulsa da escola em lugar do líder de sua turma.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/5/5a/Shigeru_Takemoto.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 49,
-  "name": "Shirō",
-  "mbti": "Desconhecido",
-  "descricao": "Aluno da 4ª geração da Sala Branca. Inicialmente se destacou em treinamento contra Kiyotaka Ayanokōji, mas abandonou o programa aos 9 anos para experimentar a liberdade do mundo exterior.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/5/5a/Shigeru_Takemoto.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 50,
-  "name": "Sō Shibata",
-  "mbti": "Desconhecido",
-  "descricao": "Aluno da Classe 1-B. Destacou-se durante o Festival de Esportes, formando dupla com Honami Ichinose e ajudando a Classe 1-B a conquistar o 1º lugar. Também é um bom jogador de futebol.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/5/5a/Shigeru_Takemoto.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 51,
-  "name": "Sōshi Miyamoto",
-  "mbti": "Desconhecido",
-  "descricao": "Aluno da Classe 1-D. Participa ativamente dos eventos da classe, mas não há detalhes específicos sobre suas habilidades ou personalidade na light novel.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/5/5a/Shigeru_Takemoto.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 52,
-  "name": "Takeko Nishino",
-  "mbti": "Desconhecido",
-  "descricao": "Aluno da Classe 2-B. Tem olhos violeta e cabelo castanho avermelhado preso em rabo de cavalo. Fala o que pensa sem hesitar e tende a ser um pouco solitária.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/2/2e/Takeko_Nishino.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 53,
-  "name": "Takuya Yagami",
-  "mbti": "Desconhecido",
-  "descricao": "Aluno da Classe 1-B do 2º Ano. Possui cabelos castanhos e olhos verdes. Exteriormente gentil e confiável, mas esconde uma personalidade sombria e estratégica. Ex-aluno da Sala Branca, extremamente inteligente e habilidoso fisicamente.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/8/89/Takuya_Yagami.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 54,
-  "name": "Tanji Suzukake",
-  "mbti": "Desconhecido",
-  "descricao": "Pesquisador da Sala Branca que criou o currículo da Sala Branca. Inicialmente parece motivado apenas por dinheiro, mas é extremamente dedicado ao estudo do desenvolvimento humano, colocando a pesquisa acima de tudo, incluindo ética. Não demonstra remorso pelas crianças da Sala Branca.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/2/23/Tanji_Suzukake.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 55,
-  "name": "Teruhiko Yukimura",
-  "mbti": "Desconhecido",
-  "descricao": "Aluno da Classe 1-D. Apesar de excelente academicamente, possui baixa aptidão física e habilidades sociais limitadas. Inicialmente despreza a turma, mas depois aceita a situação e ajuda colegas. Prefere ser chamado de Keisei, nome dado pelo pai.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/4/4b/Teruhiko_Yukimura.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 56,
-  "name": "Tetsuya Hamaguchi",
-  "mbti": "Desconhecido",
-  "descricao": "Aluno da Classe 2-C. Adolescente magro, com cabelos curtos meio roxos e olhos azuis, que também usa óculos. Membro do grupo Rabbit junto com Honami Ichinose e Ryōta Beppu durante o Teste Especial do Navio de Cruzeiro. Interage com Kiyotaka Ayanokōji questionando sobre relacionamentos.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/8/8e/Tetsuya_Hamaguchi.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 57,
-  "name": "Tomonari Mashima",
-  "mbti": "Desconhecido",
-  "descricao": "Professor de inglês e titular da Classe 1-A. Homem adulto alto, de cabelos castanhos e olhos verdes, geralmente usando blazer preto, camisa social e gravata. Leva seu trabalho muito a sério, é virtuoso e se mantém fiel à sua moral, dedicando-se a ajudar os alunos. Participa da organização e explicação dos exames especiais.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/6/6a/Tomonari_Mashima.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 60,
-  "name": "Tsubasa Nanase",
-  "mbti": "Desconhecido",
-  "descricao": "Aluna do 2º Ano, inicialmente designada para a Classe 1-D. Tsubasa é educada, calma e respeitosa, mas também determinada e confiante, especialmente ao lidar com injustiças ou violência. Durante os eventos da light novel, ela busca vingança pela morte de seu amigo Eiichirō Matsuo e acaba se envolvendo na trama contra Kiyotaka Ayanokōji, embora no final decida ajudá-lo.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/3/3f/Tsubasa_Nanase.png/revision/latest?cb=20171005084530"
-}
-,
-{
-  "id": 61,
-  "name": "Tokinari Tsukishiro",
-  "mbti": "Desconhecido",
-  "descricao": "Ex-diretor interino da Advanced Nurturing High School após a suspensão do presidente Sakayanagi. Tsukishiro é astuto e manipulador, oferecendo recompensas para tentar expulsar Kiyotaka Ayanokōji. Apesar de seu comportamento autoritário e implacável, ele reconhece a habilidade de Kiyotaka e, eventualmente, deixa de pressioná-lo diretamente, mostrando um lado mais racional e calculista.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/4/44/Tokinari_Tsukishiro.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 62,
-  "name": "Wataru Ijuin",
-  "mbti": "Desconhecido",
-  "descricao": "Aluno da Classe 1-D da Escola Secundária de Apoio Avançado. Pouco se sabe sobre sua personalidade detalhada, mas ele participa ativamente das atividades da classe e aparece na adaptação em anime. É um estudante comum que se envolve nos eventos principais da turma, mantendo um perfil discreto.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/3/3c/Wataru_Ijuin.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 63,
-  "name": "Yahiko Totsuka",
-  "mbti": "Desconhecido",
-  "descricao": "Aluno da Classe 1-A e membro da Facção Katsuragi. Inicialmente se mostra arrogante com as classes mais baixas, mas demonstra ser dócil e leal quando confrontado. Participa ativamente das atividades do grupo durante os exames e testes da escola.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/5/5c/Yahiko_Totsuka.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 64,
-  "name": "Yuki",
-  "mbti": "Desconhecido",
-  "descricao": "Personagem do volume prequel da série. Aluna da 4ª geração da Sala Branca e antiga colega de Kiyotaka Ayanokōji. Sua aparência e personalidade compartilham semelhanças com Sakurako Tsubaki, e seu relacionamento exato com outros personagens ainda é misterioso.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/2/2c/Yuki.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 65,
-  "name": "Yuki Himeno",
-  "mbti": "Desconhecido",
-  "descricao": "Estudante da Classe 2-C, com olhos violeta e cabelos presos em maria-chiquinhas. Geralmente vista usando o uniforme escolar feminino. Compartilha o mesmo aniversário com Sae Chabashira.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/2/2c/Yuki_Himeno.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 66,
-  "name": "Yukitsu Kusuda",
-  "mbti": "Desconhecido",
-  "descricao": "Perseguidor e ex-funcionário da SIVCAMERA, fã obcecado de Airi Sakura. Aproximadamente entre 30 e 40 anos, cabelo curto, pouco ou nenhuma moral. Conhecido por comportamento abusivo e obsessivo, sendo contido por Kiyotaka e autoridades.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/6/6f/Yukitsu_Kusuda.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 67,
-  "name": "Yume Kobashi",
-  "mbti": "Desconhecido",
-  "descricao": "Aluna da Classe 1-B. Adolescente de altura média, geralmente vista com o uniforme escolar. Nome significa 'sonho' e sobrenome 'pequena ponte'.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/2/2e/Yume_Kobashi.png/revision/latest?cb=20180614232946"
-}
-,
-{
-  "id": 68,
-  "name": "Yōsuke Hirata",
-  "mbti": "Desconhecido",
-  "descricao": "Aluno do segundo ano da Advanced Nurturing High School, ex-representante da Classe 1-D e membro do Clube de Futebol. Jovem de estatura média, cabelos loiros e olhos castanhos. Conhecido por sua personalidade madura, amigável e diplomática, mas pode se abalar sob pressão. Demonstrou habilidades de liderança e estratégia durante o teste de sobrevivência.",
-  "imagem": "https://static.wikia.nocookie.net/youkoso-jitsuryoku-shijou-shugi-no-kyoushitsu-e/images/3/3f/Yousuke_Hirata.png/revision/latest?cb=20171005083132"
-}
-
-]
+  ],
+   "versao": "1.0"
 }
